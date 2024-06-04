@@ -1,4 +1,14 @@
-#EXTM3U 
+#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png" group-title="ICC",ICC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://imthebest.eu/sports/1.php?show_id=icc
+https://icc-sigma.vercel.app/api?VideoId=07c1a494-4093-4c6d-af43-00cd1dfeb528&VideoSource=https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/manifest.mpd?vcfilter=07c1a494-4093-4c6d-af43-00cd1dfeb528&sessid=07c1a494-4093-4c6d-af43-00cd1dfeb52-d
 
-#EXTINF:-1 tvg-logo="",T20 CWC
-https://htstr-s1-links4m-dj-tm.vercel.app/T20-WC_2024/T20-WC_2024(HINDI%20COMMENTARY)%20[TELEGRAM:@LINKS_MACHA_OFFICIAL]%20%F0%9F%98%8E@DJ%E2%84%A2&%F0%9F%A4%93@AVN%E2%84%A2.m3u8?lang=Hindi&slg=http://live12p.hotstar.com/hls/live/2024729/inallow-icct20wc-2024/hin/1540029809/15mindvrm01008ea55a852645a4bfdd180f7c3bf34803june2024|Website=https://links-macha-official.dj-tm-si.is-best.net/&Cookie=hdntl=exp=1717505284~acl=%2f*~data=ip%3dMgqMebaaTAnxSUrTYrMJhg-userid%3dCeZpMr5MMWShvT4ZUu89BqlVBUop4h07NcjNLR0Bti8S-did%3dFdGGiccbEPBAWvtZ7xM0ldfEDPD7WRoWp-cc%3din-ttl%3d86400-type%3dfree-~hmac=82cce86d0391c756aa7ab61978b38673728a3f6fd9f9d0e2f84a059f279134ba&Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png" group-title="ICC",ICC Netherlands vs Nepal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://imthebest.eu/sports/1.php?show_id=icc
+https://icc-sigma.vercel.app/api?VideoId=4ab9ef53-e755-485c-9b31-705ed0662153&VideoSource=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-02-d/DASH_DASH/Live/channel(ch-hd-02)/manifest.mpd?vcfilter=4ab9ef53-e755-485c-9b31-705ed0662153&sessid=4ab9ef53-e755-485c-9b31-705ed066215-d
