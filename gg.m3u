@@ -6,9 +6,5 @@
 https://icc-sigma.vercel.app/api?VideoId=07c1a494-4093-4c6d-af43-00cd1dfeb528&VideoSource=https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/manifest.mpd?vcfilter=07c1a494-4093-4c6d-af43-00cd1dfeb528&sessid=07c1a494-4093-4c6d-af43-00cd1dfeb52-d
 
 
-#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png" group-title="ICC",ICC Netherlands vs Nepal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://imthebest.eu/sports/1.php?show_id=icc
-https://icc-sigma.vercel.app/api?VideoId=4ab9ef53-e755-485c-9b31-705ed0662153&VideoSource=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-02-d/DASH_DASH/Live/channel(ch-hd-02)/manifest.mpd?vcfilter=4ab9ef53-e755-485c-9b31-705ed0662153&sessid=4ab9ef53-e755-485c-9b31-705ed066215-d
+#EXTINF:-1 tvg-logo="https://icc-sigma.vercel.app/apihttps://w7.pngwing.com/pngs/160/585/png-transparent-international-cricket-council-icc-logo-sports-cricket-teams.png" group-title="ICC",ICC IND
+http://live12p-ssai-akt-mum.cdn.hotstar.com/hls/live/2003704/inallow-icct20wc-2024/hin/1540029818/15mindvrm01f6da225a8e404b7d9e32268ca959ef0605june2024/master_apmf_180_1.m3u8?|Cookie=hdntl=exp=1717681444~acl=%2fhls%2flive%2f2003704%2finallow-icct20wc-2024%2fhin%2f1540029818%2f15mindvrm01f6da225a8e404b7d9e32268ca959ef0605june2024%2fmaster_apmf*~id=20c95e749affc98859ca65d1f13525bc~data=ip%3dPHeiXhipJ5BmZlOdC04bNz-userid%3dY7V3Y6YAs5yWeurvSOUu8GL0O7tzqTZkHSoFksYbvxRx-did%3dScjg9BYVcC9c3ayZzOCUjxJfP8X6Pghudvw0M9zmE2KBSeZ15yzhUAz-cc%3din-~hmac=e14c11eee6cfa3abff05478d59df4d29cf5fd62e30e62de856c1655f023eed33
